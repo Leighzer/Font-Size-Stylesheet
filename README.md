@@ -1,5 +1,5 @@
 # Font-Size-Stylesheet
-Bootstrap 5 compatible stylesheet that gives provides the ability to resize text across the different bootstrap breakpoints.
+Bootstrap 5 compatible stylesheet that provides the ability to resize text across the different bootstrap breakpoints.
 
 # Example
 The following html:
